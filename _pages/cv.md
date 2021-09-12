@@ -11,22 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Fudan University, 2009
+* M.Sc. in Theoretical Physics, Imperial College, 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2017 - Present: Co-Founder & Academic Director
+  * Shanghai Easyday Education
+  * Physics & Maths Teacher (CAIE Physics / AQA Physics / Edexcel Mechanics / Edexcel Decision)
+  * University Guidance Counselor for STEM Majors (Choices / Personal Statements / References)
+  * Curriculum Development (Oxford MAT & PAT Courses / STEP Courses / University Interview Courses / Guided STEM Projects / Guided Reading)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2014 - June 2017: Head of Physics Department & Deputy Head of Academic Affairs
+  * Shanghai Experimental Foreign Language School
+  * Organizer of school-based mid-term and final exams
+  * AP coordinator
+  * Advisor of academic affairs
+  * Trainer for new teachers
+  * Person-in-charge of lab facilities
+  * Physics Teacher
+
+* Aug 2012 – Jul 2014: Physics and Mathematics Teacher
+  * Shanghai Guanghua College
+  * Physics and maths teacher
   
+ 
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
 Skills
 ======
 * Skill 1
@@ -35,24 +51,6 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
