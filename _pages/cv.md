@@ -14,7 +14,7 @@ Education
 * B.Sc. in Physics, Fudan University, 2009
 * M.Sc. in Theoretical Physics, Imperial College, 2011
 
-Work experience
+Work Experience
 ======
 * April 2017 - Present: Co-Founder & Academic Director
   * Shanghai Easyday Education
@@ -38,20 +38,12 @@ Work experience
  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* A-Level Physics (CAIE / Edexcel / AQA)
+* IBDP Physics (Standard / Higher)
+* A-Level Mechanics (M1 / M2 / M3) (CAIE / Edexcel)
+* A-Level Pure Mathematics (P1 / P2 / P3 / P4) (CAIE / Edexcel)
+* A-Level Decision Mathematics (Edexcel)
+* Oxford MAT Courses
+* Oxford PAT Courses
+* Cambridge NSAA / ENGAA Courses
 
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
